@@ -1,7 +1,9 @@
 # Notes - app 
 
-Note taking made by Node.js from [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
-
+Note taking made by Node.js from [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) \
+The npm used are: 
+ * yargs
+ * chalk
 
 ## How to Run 
 
